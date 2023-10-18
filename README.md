@@ -62,7 +62,10 @@ httpd.serve_forever()
 
 Done by MithunRaj (212222040100)
 ## OUTPUT:
-![Webpage](<EX01 output.png>)
-![VS code terminal](output.png)
+![EX01 output](https://github.com/Mithunlavanyaraj/simplewebserver/assets/120077786/86f43494-fd46-4725-9dcb-40cb4ab75e53)
+
+![output](https://github.com/Mithunlavanyaraj/simplewebserver/assets/120077786/68c0fbb0-0032-4bc9-9b81-de2e137158bc)
+
+
 ## RESULT:
 The program for implementing simple webserver is executed successfully.
